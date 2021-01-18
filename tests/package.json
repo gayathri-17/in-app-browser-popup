@@ -1,0 +1,14 @@
+{
+  "name": "cordova-plugin-inappbrowser-popup-tests",
+  "version": "4.1.1-dev",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-inappbrowser-popup-tests",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "",
+  "license": "Apache-2.0"
+}
